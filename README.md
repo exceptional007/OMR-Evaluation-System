@@ -1,7 +1,7 @@
 
 # 💠 OMR Neural Grid: Next-Gen Optical Mark Recognition System
 
-![OMR Neural Grid Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
+![OMR Neural Grid Banner](./assets/screenshots/banner.png)
 
 ---
 
@@ -29,7 +29,7 @@
 
 | Home Page | Batch Upload | Results & Analytics |
 |-----------|-------------|---------------------|
-| ![Home](https://user-images.githubusercontent.com/placeholder/home.png) | ![Upload](https://user-images.githubusercontent.com/placeholder/upload.png) | ![Results](https://user-images.githubusercontent.com/placeholder/results.png) |
+| ![Home](./assets/screenshots/home.png) | ![Upload](./assets/screenshots/batch_upload.png) | ![Results](./assets/screenshots/results.png) |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/anay555/omr-evaluation-system-main.git
+git clone https://github.com/exceptional007/OMR-Evaluation-System.git
 cd omr-evaluation-system-main
 ```
 
