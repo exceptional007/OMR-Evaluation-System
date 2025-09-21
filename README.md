@@ -201,7 +201,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ## 📬 Contact & Support
 
 - **Issues**: Please use the [GitHub Issues](https://github.com/anay555/omr-evaluation-system-main/issues) page for bug reports and feature requests.
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [akshhatsri7843@gmail.com](mailto:akshhatsri7843@gmail.com)
 - **Discussions**: Join our community forum (coming soon!)
 
 ---
